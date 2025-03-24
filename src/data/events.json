@@ -1,0 +1,28 @@
+{
+	"weatherEvents": [
+		{
+			"name": "Default",
+			"details": {
+				"description": "Nothing of note happened...",
+				"frequencyMin": 0,
+				"frequencyMax": 70
+				}
+		},
+		{
+			"name": "Thunderstorm",
+			"details": {
+				"description": "It rained all day...",
+				"frequencyMin": 71,
+				"frequencyMax": 90
+				}
+		},
+		{
+			"name": "Flood",
+			"details": {
+				"description": "The river flooded its banks...",
+				"frequencyMin": 71,
+				"frequencyMax": 100
+				}
+		}
+	]
+}
