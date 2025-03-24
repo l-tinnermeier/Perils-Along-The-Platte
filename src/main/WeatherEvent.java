@@ -28,4 +28,6 @@ public class WeatherEvent {
 	public long getFreqMax() {
 		return frequencyMax;
 	}
+	
+	// test
 }
