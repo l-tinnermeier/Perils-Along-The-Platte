@@ -21,6 +21,15 @@
 			"details": {
 				"description": "The river flooded its banks...",
 				"frequencyMin": 71,
+				"frequencyMax": 95
+				}
+		},
+		
+		{
+			"name": "Drought",
+			"details": {
+				"description": "There was no water today...",
+				"frequencyMin": 96,
 				"frequencyMax": 100
 				}
 		}
